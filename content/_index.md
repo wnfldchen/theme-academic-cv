@@ -66,7 +66,7 @@ sections:
           company: Canoe Financial
           company_url: 'https://www.canoefinancial.com/'
           company_logo: org-canoe
-          location: Toronto
+#          location: ''
           date_start: '2022-10-01'
           date_end: ''
 #          description: |2-
@@ -82,6 +82,13 @@ sections:
 #          location: ''
           date_start: '2021-09-02'
           date_end: '2022-06-30'
+        - title: Research Assistant
+          company: Simon Fraser University
+          company_url: 'https://stat.sfu.ca/'
+          company_logo: org-sfu
+#          location: ''
+          date_start: '2019-05-01'
+          date_end: '2022-04-30'
     design:
       columns: '2'
   - block: accomplishments
