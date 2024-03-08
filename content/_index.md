@@ -120,7 +120,7 @@ sections:
           icon: ''
           organization: 'Natural Sciences and Engineering Research Council of Canada'
           organization_url: 'https://www.nserc-crsng.gc.ca/'
-          title: 'NSERC Alexander Graham Bell Canada Graduate Scholarship-Master's'
+          title: "NSERC Alexander Graham Bell Canada Graduate Scholarship-Master's"
           url: 'https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp'
 #        - certificate_url: https://www.datacamp.com
 #          date_end: '2020-12-21'
