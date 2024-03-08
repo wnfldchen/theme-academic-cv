@@ -108,7 +108,7 @@ sections:
           date_end: ''
           date_start: '2023-09-01'
           description: ''
-          icon: ''
+          icon: org-statcan
           organization: 'Natural Sciences and Engineering Research Council of Canada'
           organization_url: 'https://www.nserc-crsng.gc.ca/'
           title: 'NSERC Alexander Graham Bell Canada Graduate Scholarship-Doctoral'
@@ -117,7 +117,7 @@ sections:
           date_end: ''
           date_start: '2020-04-01'
           description: ''
-          icon: ''
+          icon: org-statcan
           organization: 'Natural Sciences and Engineering Research Council of Canada'
           organization_url: 'https://www.nserc-crsng.gc.ca/'
           title: "NSERC Alexander Graham Bell Canada Graduate Scholarship-Master's"
