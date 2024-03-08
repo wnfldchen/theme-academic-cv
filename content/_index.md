@@ -105,18 +105,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 'https://www.nserc-crsng.gc.ca/NSERC-CRSNG/FundingDecisions-DecisionsFinancement/ScholarshipsAndFellowships-ConcoursDeBourses/2022/fullTable_eng.asp'
-#          date_end: ''
+          date_end: ''
           date_start: '2023-09-01'
-#          description: ''
+          description: ''
           icon: org-statcan
           organization: Natural Sciences and Engineering Research Council of Canada
           organization_url: 'https://www.nserc-crsng.gc.ca/'
           title: 'NSERC Alexander Graham Bell Canada Graduate Scholarship-Doctoral'
           url: 'https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp'
         - certificate_url: 'https://app.dimensions.ai/details/grant/grant.9859722'
-#          date_end: ''
+          date_end: ''
           date_start: '2020-04-01'
-#          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: ''
           icon: org-statcan
           organization: Natural Sciences and Engineering Research Council of Canada
           organization_url: 'https://www.nserc-crsng.gc.ca/'
