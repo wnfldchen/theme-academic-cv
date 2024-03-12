@@ -25,7 +25,7 @@ organizations:
     url: https://www.canoefinancial.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My professional interest is in applications and advances of artificial intelligence. My current employment applies this interest to business applications in the financial industry. My other interests include science, technology, economics, politics, and history.
+bio: My professional interest is in applications and advances of artificial intelligence. My current employment applies this interest to business applications in the financial industry. My past research areas include statistical methodology, statistical genetics, and bioinformatics. My other interests include science, technology, economics, politics, and history.
 
 # Interests to show in About widget
 interests:
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Winfield Chen is a data scientist at Canoe Financial. He applies advances in artificial intelligence to business problems relevant to the investment management industry.
+Winfield Chen is a data scientist at Canoe Financial. He applies advances in artificial intelligence to business problems relevant to the investment management industry. His past work has been in statistical methods, statistical genetics, and bioinformatics.
 {style="text-align: justify;"}
