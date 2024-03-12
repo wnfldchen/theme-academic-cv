@@ -122,6 +122,33 @@ sections:
           organization_url: 'https://www.nserc-crsng.gc.ca/'
           title: "NSERC Alexander Graham Bell Canada Graduate Scholarship-Master's"
           url: 'https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp'
+        - certificate_url: 'https://app.dimensions.ai/details/grant/grant.9857279'
+          date_end: ''
+          date_start: '2020-04-01'
+          description: ''
+          icon: org-statcan
+          organization: 'Natural Sciences and Engineering Research Council of Canada'
+          organization_url: 'https://www.nserc-crsng.gc.ca/'
+          title: "NSERC Undergraduate Student Research Award"
+          url: 'https://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_eng.asp'
+        - certificate_url: 'https://app.dimensions.ai/details/grant/grant.9435155'
+          date_end: ''
+          date_start: '2019-04-01'
+          description: ''
+          icon: org-statcan
+          organization: 'Natural Sciences and Engineering Research Council of Canada'
+          organization_url: 'https://www.nserc-crsng.gc.ca/'
+          title: "NSERC Undergraduate Student Research Award"
+          url: 'https://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_eng.asp'
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2017-09-01'
+          description: ''
+          icon: org-sfu
+          organization: 'Simon Fraser University'
+          organization_url: 'https://www.sfu.ca/'
+          title: "Dean's Academic Excellence Entrance Scholarship – Applied Sciences"
+          url: ''
 #        - certificate_url: https://www.datacamp.com
 #          date_end: '2020-12-21'
 #          date_start: '2020-07-01'
