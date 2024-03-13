@@ -17,5 +17,5 @@ publication: '*Nature Neuroscience*'
 doi: 10.1038/s41593-021-00826-4
 links:
 - name: URL
-  url: http://dx.doi.org/10.1038/s41593-021-00826-4
+  url: https://rdcu.be/ciYf5
 ---
