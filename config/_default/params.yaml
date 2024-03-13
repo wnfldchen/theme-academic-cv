@@ -18,15 +18,15 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Winfield Chen'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: '6KIFqLKia-LoR-zXjgfR7Dj8CKnU_ihcMU2foJhc_tQ'
     baidu: ''
 
 # Site header
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Winfield Chen. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
