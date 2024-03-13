@@ -106,7 +106,7 @@ sections:
       items:
         - certificate_url: 'https://www.nserc-crsng.gc.ca/NSERC-CRSNG/FundingDecisions-DecisionsFinancement/ScholarshipsAndFellowships-ConcoursDeBourses/2022/fullTable_eng.asp'
           date_end: ''
-          date_start: '2023-09-01'
+          date_start: '2022-04-01'
           description: ''
           icon: org-statcan
           organization: 'Natural Sciences and Engineering Research Council of Canada'
@@ -142,7 +142,7 @@ sections:
           url: 'https://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_eng.asp'
         - certificate_url: ''
           date_end: ''
-          date_start: '2017-09-01'
+          date_start: '2017-04-01'
           description: ''
           icon: org-sfu
           organization: 'Simon Fraser University'
