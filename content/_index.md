@@ -104,7 +104,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 'https://www.nserc-crsng.gc.ca/NSERC-CRSNG/FundingDecisions-DecisionsFinancement/ScholarshipsAndFellowships-ConcoursDeBourses/2022/fullTable_eng.asp'
+        - certificate_url: 'https://web.archive.org/web/20251111095729/https://www.nserc-crsng.gc.ca/NSERC-CRSNG/FundingDecisions-DecisionsFinancement/ScholarshipsAndFellowships-ConcoursDeBourses/2022/fullTable_eng.asp'
           date_end: ''
           date_start: '2022-04-01'
           description: ''
