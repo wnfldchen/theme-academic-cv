@@ -1,0 +1,11 @@
+/* Inherit the muted grey color from the wrapper to match Accomplishments */
+.experience .exp-company a {
+  color: inherit !important; 
+  text-decoration: none;
+}
+
+/* Optional: Add the primary link color back on hover */
+.experience .exp-company a:hover {
+  color: var(--bs-primary) !important;
+  text-decoration: underline;
+}
